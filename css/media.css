@@ -1,0 +1,80 @@
+@media (min-width: 576px) and (max-width: 767.98px) {
+    
+}
+@media (max-width: 575.98px) {
+    #header {
+        padding: 15px;
+    }
+    .navbar-toggler i{
+        color: #363636;
+        border: none;
+    }
+    .navbar-toggler button:focus {
+        outline:none;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+        line-height: 30px;
+    }
+    .navber-card {
+        padding-left: 126px;
+    }
+    .naveber-icon i {
+        padding-right: 149px;
+        padding-bottom: 15px;
+        padding-top: 10px;
+    }
+    .banner-text {
+        padding-top: 35px;
+    }
+    .banner-text h1 {
+        font-size: 30px;
+    }
+    .banner-text h2 {
+        font-size: 16px;
+    }
+    .banner-text p {
+        font-size: 11px;
+        padding-bottom: 0px;
+    }
+    .banner-text a {
+        padding: 5px 15px;
+        font-size: 10px;
+    }
+    
+    .service-text h3 {
+        font-size: 20px;
+    }
+    .service-text p {
+        font-size: 16px;
+    }
+    #service {
+        padding-top: 28px;
+        padding-bottom: 13px;
+    }
+    .service-text p::after {
+        bottom: -36px;
+    }
+    .service-item p::after {
+        bottom: -5px;
+    }
+    #portfolio {
+        padding-top: 10px;
+        padding-bottom: 50px;
+    }
+    .email-news-latter button {
+        right: 180px;
+    }
+    .nav-link {
+        padding: 10px;
+    }
+    .work-overlay h4 {
+        font-size: 14px;
+    }
+    .work-icon {
+        bottom: 5px;
+        right: 8px;
+    }
+    
+    
+    }
